@@ -16,16 +16,16 @@ A: Bitcoin has the highest compound score (0.326).
 ## Natural Language Processing
 
 Next, look at the ngrams and word frequency for each coin.
-Use NLTK to produce the ngrams for N = 2 through *all* Bitcoin articles. Here is the list of top 10 words for Bitcoin: 
+Use NLTK to produce the ngrams for N = 2 through *ALL* Bitcoin articles. Here is the list of top 10 words for Bitcoin: 
 
 ('satoshi', 'nakaboto'): 42, \
 ('char', 'robot'): 21, \
-('robot', 'colleague'): 21, \ 
-('colleague', 'satoshi'): 21, \ 
+('robot', 'colleague'): 21, \
+('colleague', 'satoshi'): 21, \
 ('nakaboto', 'writes'): 21, \
 ('writes', 'bitcoin'): 21, \
 ('every', 'fucking'): 21, \
-('fucking', 'daywelcome'): 21, \ 
+('fucking', 'daywelcome'): 21, \
 ('daywelcome', 'another'): 21, \
 ('another', 'edition'): 21 
 
